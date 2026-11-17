@@ -1,3 +1,5 @@
+# Vertex Degree and Handshaking Lemma
+# Description: Calculate vertex degrees using Python loops and verify the Handshaking Lemma for an undirected graph.
 vertices = [1,2,3,4]
 edges = [(1,2),(1,3),(2,3),(3,4)]
 total_degree = 0
