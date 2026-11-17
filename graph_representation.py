@@ -1,4 +1,5 @@
 # Graph representation using an edge list
+# Description: Represent an undirected graph using Python lists and tuples, and count its vertices and edges.
 vertices = [1,2,3,4]
 edges = [(1,2),(1,3),(2,3),(3,4)]
 no_of_vertices = len(vertices)
